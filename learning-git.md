@@ -48,7 +48,7 @@ $ git add <File>
 ```
 or you can add it all:
 ```
-$ git add *
+$ git add -A
 ```
 
 ##### Checking your repository's status
